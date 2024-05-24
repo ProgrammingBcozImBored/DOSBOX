@@ -1,5 +1,10 @@
-Hi! Welcome to the DOSBOX Repo on GitHub!
+Hi! Welcome to my tutorial on how to run Windows for Workgroups 3.11 in DOSBOX! I have to give credit to @LibertiesTorch on YouTube for the Files Provided. For the video tutorial, be sure to check out his video! https://youtu.be/cMjfv-wwMR4?si=-dNksiZAi2RnGh3c
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Note: This is 100% Free
-
-![image](https://github.com/ProgrammingBcozImBored/DOSBOX/assets/170756034/d88fe786-ad32-4824-af95-8612cf7426fd)
+If you haven't already, download DOSBOX from SourceForge.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+**STEP 1 - Downloading 3.11 From Kirsle**
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Head over to https://www.kirsle.net/download?project=DOS&file=WfW-3.11-unpacked.zip and Download the zipped file.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+![image](https://github.com/ProgrammingBcozImBored/Windows3.11InDosBox/assets/170756034/555549f4-d592-4e6b-8dd4-38722d8830a2)
