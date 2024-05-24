@@ -21,6 +21,8 @@ Extract the Zip File to somewhere reliable (eg. desktop), and find out the file 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 **COMMON ERROR**
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+If your Extraction went wrong and the extracted folder has a subfolder of itself, drag the subfolder out and throw the Original folder in the Recycle Bin (if it's in the same location eg. desktop it might get automatically replaced). However, if you decide to keep the subfolder, Ignore this Until we come back to it in Step 3 (it'll be harder than deleting the extra folder).
+
 
 
 
